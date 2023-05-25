@@ -99,8 +99,6 @@ Happy coding! 😄
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=magicgithgub32
-&&style=flat-square)  
   
 
 <br/>  
@@ -109,4 +107,4 @@ Happy coding! 😄
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
