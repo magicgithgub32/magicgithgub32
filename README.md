@@ -23,7 +23,7 @@ They say I'm a full-stack developer with expertise in JavaScript, React, and Nod
 
 - **Front-end:** HTML, CSS, JavaScript,  React, TypeScript
 
-- **Back-end:** Node.js, Express, MongoDB.
+- **Back-end:** Node.js, Express, MongoDB, Playwright
 
 Feel free to explore my repositories and provide any feedback. Let's learn and grow together!
 
